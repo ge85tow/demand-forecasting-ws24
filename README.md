@@ -1,1 +1,1 @@
-# demand-forecasting-ws24
+- **Demand Forecasting** – This project addresses patient forecasting as a time series problem, forming the first step of Hospichef’s demand forecasting solution. Using historical patient data alongwith external features, models such as ARIMA, SARIMA, Facebook Prophet, and LSTM were applied to estimate patient counts for German hospitals, providing upper and lower bound forecasts to support dish planning.
